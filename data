@@ -1,0 +1,3 @@
+!wget -qnc -P ./movielens https://raw.githubusercontent.com/wesm/pydata-book/2nd-edition/datasets/movielens/users.dat
+!wget -qnc -P ./movielens https://raw.githubusercontent.com/wesm/pydata-book/2nd-edition/datasets/movielens/ratings.dat
+!wget -qnc -P ./movielens https://raw.githubusercontent.com/wesm/pydata-book/2nd-edition/datasets/movielens/movies.dat
